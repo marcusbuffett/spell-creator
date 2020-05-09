@@ -1,0 +1,4 @@
+(
+  title: "spell-creator",
+  dimensions: Some((500, 500)),
+)

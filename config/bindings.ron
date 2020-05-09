@@ -1,0 +1,7 @@
+(
+  axes: {
+    "player_vertical": Emulated(pos: Key(Period), neg: Key(E)),
+    "player_horizontal": Emulated(pos: Key(U), neg: Key(O)),
+  },
+  actions: {},
+)
